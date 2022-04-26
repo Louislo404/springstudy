@@ -8,3 +8,4 @@ hot-fix add
 main changed for pushing to github
 changed on github
 pushing test by hot-fix
+pushing test by hot-fix after keychain deleted
